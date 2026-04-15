@@ -90,5 +90,5 @@ Best practices include:
 - Use bastion hosts or AWS Systems Manager Session Manager for additional security.
 
 ## Architectural Diagram
-<img src="./Architectural diagram.svg" width="600" height="6git00">
+<img src="./Architectural diagram.svg" width="600" height="600">
 
